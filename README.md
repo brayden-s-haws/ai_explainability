@@ -8,6 +8,8 @@ By leveraging the power of large language models and document analysis, this too
 
 ![CleanShot Safari-2024-07-26](https://github.com/user-attachments/assets/637eb3d2-81cb-4224-adfb-d8367f461ed9)
 
+You can watch a demo of this in action [here](https://share.cleanshot.com/RnPnsGR7).
+
 ## How It Works
 
 The AI Explainability Card Generator operates through a series of steps to process input data and generate explainability cards:
