@@ -6,9 +6,7 @@ The AI Explainability Card Generator is a tool designed to create comprehensive,
 
 By leveraging the power of large language models and document analysis, this tool can take in various sources of information about an AI system - be it GitHub repositories, technical documents, or other uploaded files - and distill that information into concise, tailored explanations. This not only saves time for AI developers and product managers but also ensures consistency and comprehensiveness in how AI systems are explained and documented.
 
-![AI Explainability Card Generator Screenshot]
-
-(You may want to add a screenshot of your application here)
+![CleanShot Safari-2024-07-26](https://github.com/user-attachments/assets/637eb3d2-81cb-4224-adfb-d8367f461ed9)
 
 ## How It Works
 
