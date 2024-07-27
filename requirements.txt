@@ -1,0 +1,7 @@
+streamlit
+langchain
+langchain-community
+langchain-anthropic
+python-docx
+python-dotenv
+anthropic
