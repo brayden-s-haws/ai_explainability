@@ -55,6 +55,7 @@ G --> H[End]
 
 - **app.py**: The main Streamlit application file that handles the user interface and orchestrates the card generation process.
 - **main.py**: Contains core functionality for content loading, processing, and card generation.
+- **run.py**: This manages the the running of application.
 - **requirements.txt**: Lists all Python dependencies required to run the project.
 
 ## Setup
@@ -63,7 +64,7 @@ To set up the AI Explainability Card Generator:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/ai-explainability-card-generator.git
+   git clone https://github.com/brayden-s-haws/ai-explainability-card-generator.git
    cd ai-explainability-card-generator
    ```
 
@@ -82,10 +83,8 @@ To set up the AI Explainability Card Generator:
 
 4. Run the Streamlit app:
    ```
-   streamlit run app.py
+   streamlit run run.py
    ```
-
-The application should now be running on `http://localhost:8501`.
 
 ## Roadmap
 
@@ -94,11 +93,6 @@ The application should now be running on `http://localhost:8501`.
 - Integrate with popular AI model repositories for easier access to model information
 - Implement a feedback mechanism to continually improve the quality of generated explanations
 - Add multi-language support for global accessibility
-
-## Acknowledgements
-
-- Thanks to the Anthropic team for providing the Claude API, which powers the core analysis and generation capabilities of this tool.
-- Streamlit for their fantastic framework that makes creating data apps a breeze.
 
 ## License
 
