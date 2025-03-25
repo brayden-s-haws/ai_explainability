@@ -1,5 +1,7 @@
 # AI Explainability Card Generator
 
+#### Current status: Complete
+
 ## Description
 
 The AI Explainability Card Generator is a tool designed to create comprehensive, easy-to-understand explanations of AI models and systems. In an era where AI is becoming increasingly prevalent and complex, there's a growing need for clear, accessible explanations of how these systems work, both for technical stakeholders and for end-users. This project aims to bridge that gap by automatically generating two types of explainability cards: one for customers and another for internal stakeholders.
@@ -88,14 +90,14 @@ To set up the AI Explainability Card Generator:
    streamlit run run.py
    ```
 
-## Roadmap
-
-- Implement support for more input types (e.g., Jupyter notebooks, API documentation)
-- Add customizable templates for different industries or use cases
-- Integrate with popular AI model repositories for easier access to model information
-- Implement a feedback mechanism to continually improve the quality of generated explanations
-- Add multi-language support for global accessibility
-
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
+
+___
+
+### Personal Progress
+* What I learned: How to use the GitHub API to pull both public and private repositories. And then once I had the data how to parse markdown and transform it into another format, in this case a single string.
+* What I wish I had done differently: I wish I had expanded the types of documents that the application supports (jupyter notebooks, API documentation, etc.)
+* What I am most proud of: [Lines 44-156](https://github.com/brayden-s-haws/ai_explainability/blob/de7686893044284f49c6956dfcf205cddaf38860/main.py#L44) of main.py. I was able to create multiple complex prompts to generate consistent outouts that took highly technical documentation and transform it into something the average person could understand.
+* What I want to learn next: More complex prompting techniques and ways to version/store prompts for easily switching between outputs.
