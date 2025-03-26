@@ -1,5 +1,13 @@
 # AI Explainability Card Generator
 
+___
+
+### Personal Progress
+* What I learned: How to use the GitHub API to pull both public and private repositories. And then once I had the data how to parse markdown and transform it into another format, in this case a single string.
+* What I wish I had done differently: I wish I had expanded the types of documents that the application supports (jupyter notebooks, API documentation, etc.)
+* What I am most proud of: [Lines 44-156](https://github.com/brayden-s-haws/ai_explainability/blob/de7686893044284f49c6956dfcf205cddaf38860/main.py#L44) of main.py. I was able to create multiple complex prompts to generate consistent outouts that took highly technical documentation and transform it into something the average person could understand.
+* What I want to learn next: More complex prompting techniques and ways to version/store prompts for easily switching between outputs.
+
 #### Current status: Complete
 
 ## Description
@@ -94,10 +102,4 @@ To set up the AI Explainability Card Generator:
 
 This project is open source and available under the [MIT License](LICENSE).
 
-___
 
-### Personal Progress
-* What I learned: How to use the GitHub API to pull both public and private repositories. And then once I had the data how to parse markdown and transform it into another format, in this case a single string.
-* What I wish I had done differently: I wish I had expanded the types of documents that the application supports (jupyter notebooks, API documentation, etc.)
-* What I am most proud of: [Lines 44-156](https://github.com/brayden-s-haws/ai_explainability/blob/de7686893044284f49c6956dfcf205cddaf38860/main.py#L44) of main.py. I was able to create multiple complex prompts to generate consistent outouts that took highly technical documentation and transform it into something the average person could understand.
-* What I want to learn next: More complex prompting techniques and ways to version/store prompts for easily switching between outputs.
