@@ -20,8 +20,6 @@ By leveraging the power of large language models and document analysis, this too
 
 You can watch a demo of this in action [here](https://share.cleanshot.com/RnPnsGR7).
 
-You can give it a try for yourself [here](https://ai-explainability-cards.replit.app).
-
 ## How It Works
 
 The AI Explainability Card Generator operates through a series of steps to process input data and generate explainability cards:
